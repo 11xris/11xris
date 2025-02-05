@@ -3,7 +3,7 @@
 <!--
 **11xris/11xris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-   My name is Christian and I am a Business Analyst that recently graduated form triple ten where I worked on 6 projects that were modeled after real world assignments. I have experience in SQL, Tableau, Pivot Tables, Microsoft Power BI, data visualization and business analytics. My goal is to use my skills to best promote growth and understanding with data.
+   >My name is Christian and I am a Business Analyst that recently graduated form triple ten where I worked on 6 projects that were modeled after real world assignments. I have experience in SQL, Tableau, Pivot Tables, Microsoft Power BI, data visualization and business analytics. My goal is to use my skills to best promote growth and understanding with data.
 
 Here are some ideas to get you started:
 
