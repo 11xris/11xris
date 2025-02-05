@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm a recent graduate of triple ten
+[![Linkedin Badge](https://www.linkedin.com/in/christian-hernandez-9658b9345/)]<p align='left'>
 
 My name is Christian and I am a Business Analyst that recently graduated form triple ten where I worked on 6 projects that were modeled after real world assignments. I have experience in SQL, Tableau, Pivot Tables, Microsoft Power BI, data visualization and business analytics. My goal is to use my skills to best promote growth and understanding with data.
 
@@ -9,4 +10,5 @@ Some facts about me:
 - I am teaching myself tennis through online videos.
 - Music is one of my biggest interests.
 - My goal this year is to be more ambitious and land a job in analytics.
--->
+
+Feel free to contact me on Github or LinkedIn
